@@ -23,7 +23,7 @@
     <li> Standard Deviation of Asset ($\sigma_{x}$)
     <li> Correlation Coefficient ($Corr$)
     </ul>
-<p> Lucky for us, all these calculations can be handled using Python. I demonstrate this in the attached Jupyter notebook.
+<p> Lucky for us, all these calculations can be handled using Python.
 <br>
 <h2>The Capital Asset Pricing Model</h2>
 <p> The <i>Capital Assest Pricing Model</i> (CAPM) formula:
